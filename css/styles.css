@@ -74,8 +74,8 @@ h2 {
   color: #2e2f42;
   font-style: normal;
 }
-.address:hover,
-.address:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 
@@ -135,6 +135,8 @@ h2 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.team-item {
   background-color: #fff;
 }
 .team-text {
@@ -170,7 +172,10 @@ h2 {
 .page-footer {
   background-color: #2e2f42;
   color: #f4f4fd;
+}
+.logo-footer {
   text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
 }
 .footer-text {
   font-weight: 400;
