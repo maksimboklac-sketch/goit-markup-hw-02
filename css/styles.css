@@ -44,16 +44,14 @@ h2 {
 }
 /* common */
 /* header */
-.logo {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-}
 .logo-nav {
   font-family: "Raleway", sans-serif;
   color: #2e2f42;
   text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
 }
 .header-list {
   font-weight: 500;
@@ -73,6 +71,9 @@ h2 {
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-style: normal;
+}
+.contact-link {
+  color: #434455;
 }
 .contact-link:hover,
 .contact-link:focus {
@@ -176,6 +177,10 @@ h2 {
 .logo-footer {
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
 }
 .footer-text {
   font-weight: 400;
